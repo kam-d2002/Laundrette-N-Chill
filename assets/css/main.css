@@ -3000,6 +3000,13 @@ input, select, textarea {
 				display: none;
 			}
 
+			.logo { 
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%;
+			}
+
 		/* Header */
 
 			#header {
